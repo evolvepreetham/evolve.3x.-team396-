@@ -5,6 +5,7 @@ An intelligent, AI-driven platform for optimizing Electric Vehicle charging infr
 Our mission is to solve the critical operational challenges in the EV charging industry. By creating a unified, intelligent ecosystem, we aim to make EV charging reliable, efficient, and accessible for everyone—from individual drivers to large-scale commercial fleets.
 
 🧑‍💻 The Team: E-ECO SYSTEM
+
 Preetham Awaji
 
 Shivraj B Y
