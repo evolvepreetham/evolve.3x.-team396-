@@ -76,7 +76,7 @@ React & JavaScript: Creating a fluid, interactive, and real-time dashboard UI fo
 Follow these instructions to get the E-ECO SYSTEM platform running on your local machine.
 
 1. Clone the Repository
-git clone https://github.com/Team-Hackathon-Hubli/Aqualogic.git
+https://github.com/evolvepreetham/evolve.3x.-team396
 cd e-eco-system
 
 2. Install Dependencies
