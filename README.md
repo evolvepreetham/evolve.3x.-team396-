@@ -116,8 +116,7 @@ Test EVISION: Trigger simulated fault conditions in your sensor data feed and wa
 
 Test FLEET CHARGE: Load a sample fleet schedule and observe how the system automatically reserves and optimizes charging assignments.
 
-📜 License
-This project is proudly open-source and is licensed under the MIT License. Please see the LICENSE file for full details.
+
 
 🙌 Acknowledgements
 This project was conceived and developed as part of the Hackathon Hubli initiative. We are grateful for the opportunity to tackle real-world challenges in the critical fields of energy and sustainable mobility.
